@@ -20,9 +20,8 @@ My goal is to help organizations make smarter decisions with clean, insightful v
 
 ## 🔗 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mahale-tanuja-978354322)
-[![Gmail](https://img.shields.io/badge/Email-tanujamahale58@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tanujamahale58@gmail.com)
-[![Location](https://img.shields.io/badge/Nashik%2C%20India-%F0%9F%87%AE%F0%9F%87%B3-lightgrey?style=for-the-badge)](#)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahale-tanuja-978354322)
+[![Email](https://img.shields.io/badge/-Email-grey?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tanujamahale58@gmail.com)]
 
 ---
 
