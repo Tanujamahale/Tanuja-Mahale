@@ -21,7 +21,7 @@ My goal is to help organizations make smarter decisions with clean, insightful v
 ## 🔗 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahale-tanuja-978354322)
-[![Email](https://img.shields.io/badge/-Email-grey?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tanujamahale58@gmail.com)]
+[![Email](https://img.shields.io/badge/-Email-grey?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tanujamahale58@gmail.com)
 
 ---
 
